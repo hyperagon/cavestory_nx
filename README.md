@@ -7,7 +7,7 @@
 - [Im Hex](https://imhex.werwolv.net/)
 
 ### Changes
-- Ghost Mode (0 max health), making you immortal
+- Ghost Mode (0 max health), makes you untouchable
 - Infinite Machine Gun
 - Infinite Super Missile Launcher
 - Removed other weapons
