@@ -13,4 +13,4 @@
 - Ghost Mode (0 max health), makes you untouchable
 - Infinite Machine Gun
 - Infinite Super Missile Launcher
-- Removed other weapons
+- Removed some weapons
