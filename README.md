@@ -4,7 +4,7 @@
 - [Strategy Wiki](https://strategywiki.org/wiki/Cave_Story/Cheats)
 
 ### Tool Used
-- [IM Hex](https://imhex.werwolv.net/)
+- [Im Hex](https://imhex.werwolv.net/)
 
 ### Changes
 - Ghost Mode (0 max health), making you immortal
