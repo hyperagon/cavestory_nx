@@ -10,3 +10,4 @@
 - Ghost Mode (0 max health), making you immortal
 - Infinite Machine Gun
 - Infinite Super Missile Launcher
+- Removed other weapons
