@@ -6,6 +6,9 @@
 ### Tool Used
 - [Im Hex](https://imhex.werwolv.net/)
 
+### Path (on Linux)
+- `~/.local/share/cavestory-nx`
+
 ### Changes
 - Ghost Mode (0 max health), makes you untouchable
 - Infinite Machine Gun
