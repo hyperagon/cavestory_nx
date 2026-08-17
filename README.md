@@ -8,7 +8,7 @@
 - [Any other HexEditor is fine really](https://github.com/merces/awesome-hex-editors)
 
 ### Path (on Linux)
-- `~/.local/share/cavestory-nx`
+- `~/.local/share/cavestory-nx` (~ = /home/user)
 
 ### Changes
 - "Ghost Mode" (0 max health), makes you untouchable
