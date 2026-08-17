@@ -5,13 +5,13 @@
 
 ### Tool Used
 - [Im Hex](https://imhex.werwolv.net/)
-- [Any other HexEditor](https://github.com/merces/awesome-hex-editors)
+- [Any other HexEditor is fine really](https://github.com/merces/awesome-hex-editors)
 
 ### Path (on Linux)
 - `~/.local/share/cavestory-nx`
 
 ### Changes
-- Ghost Mode (0 max health), makes you untouchable
+- "Ghost Mode" (0 max health), makes you untouchable
 - Infinite Machine Gun
 - Infinite Super Missile Launcher
 - Removed some weapons
