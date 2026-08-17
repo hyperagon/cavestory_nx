@@ -5,7 +5,7 @@
 
 ### Tool Used
 - [Im Hex](https://imhex.werwolv.net/)
-- [Any other HexEditor is fine really](https://github.com/merces/awesome-hex-editors)
+- [Any other HexEditor is fine](https://github.com/merces/awesome-hex-editors)
 
 ### Path (on Linux)
 - `~/.local/share/cavestory-nx` (**~** = /home/user)
